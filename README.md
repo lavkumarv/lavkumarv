@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LAV VISHWAKARMA</h1>
+<h1 align="center">Hi 👋, I'm Lav Vishwakarma</h1>
 <h3 align="center">Professional software engineer with 7+ years of experience</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavkumarv" alt="lavkumarv" /></a> </p>
